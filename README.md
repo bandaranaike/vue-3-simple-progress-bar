@@ -1,6 +1,6 @@
 # Vue 3 Simple Progress Bar
 
-This is a light-weight simple progress bar with minimum variations. Design for Vue 3.
+This is a light-weight simple progress bar with minimal variations. Designed for Vue 3.
 
 ### Attributes
 
