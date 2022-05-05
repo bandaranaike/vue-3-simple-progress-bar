@@ -1,0 +1,12 @@
+{
+  "name": "vue-3-simple-progress-bar",
+  "version": "1.0.0",
+  "description": "Simple light-weight Vue 3 progress bar",
+  "main": "ProgressBar.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eranda Bandaranaike",
+  "license": "ISC",
+  "repository": "https://github.com/bandaranaike/vue-3-simple-progress-bar.git"
+}
