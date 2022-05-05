@@ -30,7 +30,7 @@ defineProps({
         type: Number
     },
     currentValue: {
-        default: 0,
+        default: 20,
         type: Number
     },
     animation: {
