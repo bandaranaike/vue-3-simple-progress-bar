@@ -25,7 +25,7 @@ This is a light-weight simple progress bar with minimum variations. Design for V
             <progress-bar></progress-bar>
         </div>
         <div style="width:40%; margin-top:20px">
-            <progress-bar current-value="50" height="5" color="#3eb750" strip="true" animation="false"></progress-bar>
+            <progress-bar current-value="50" height="5" color="#3eb750" :strip="true" :animation="false"></progress-bar>
         </div>
     </template>
 
