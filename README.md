@@ -30,6 +30,5 @@ This is a light-weight simple progress bar with minimal variations. Designed for
     </template>
 
     <script setup>
-    import ProgressBar from "vue3-simple-progress";
-    
+    import ProgressBar from "vue-3-simple-progress-bar";
     </script>

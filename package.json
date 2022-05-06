@@ -1,6 +1,6 @@
 {
   "name": "vue-3-simple-progress-bar",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Simple light-weight Vue 3 progress bar",
   "main": "ProgressBar.vue",
   "scripts": {

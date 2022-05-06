@@ -34,10 +34,12 @@ defineProps({
         type: Number
     },
     animation: {
-        default: true
+        default: true,
+        type: Boolean
     },
     strip: {
-        default: true
+        default: true,
+        type: Boolean
     }
 })
 </script>
